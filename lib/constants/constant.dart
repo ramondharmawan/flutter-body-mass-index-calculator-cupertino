@@ -14,14 +14,14 @@ TextStyle? labelTextStyle =
 TextStyle numberTextStyle =
     TextStyle(fontSize: 50, fontWeight: FontWeight.bold, color: Colors.white);
 
-String underweightSevere = "Underweight (Severe Thinnes)";
-String underweightModerate = "Underweight (Moderate Thinnes)";
-String underweightMild = "Underweight (Mild Thinnes)";
-String normal = "Normal";
-String overweight = "Overweight";
-String obeseI = "Obese (Class I)";
-String obeseII = "Obese (Class II)";
-String obeseIII = "Obese (Class III)";
+const String underweightSevere = "Underweight (Severe Thinnes)";
+const String underweightModerate = "Underweight (Moderate Thinnes)";
+const String underweightMild = "Underweight (Mild Thinnes)";
+const String normal = "Normal";
+const String overweight = "Overweight";
+const String obeseI = "Obese (Class I)";
+const String obeseII = "Obese (Class II)";
+const String obeseIII = "Obese (Class III)";
 
 
 // TextStyle, String itu adalah category di sini, jadi sebutkan categorynya yang menhold type dari value tersebut )
