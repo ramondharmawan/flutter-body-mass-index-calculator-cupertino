@@ -1,6 +1,6 @@
 # bmi
 
-A new Flutter project.
+A new Flutter project about body mass index with cupertino effect
 
 ## Getting Started
 
